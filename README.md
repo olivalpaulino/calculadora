@@ -26,7 +26,9 @@ Para este projeto foi utilizado o Visual Studio Code, o Node.js para instalar de
 # Informações:
 
 Curso de JavaScript do Zero ao Avançado (Udemy): https://www.udemy.com/course/javascript-com-orientacao-a-objetos-e-dom-aprenda-rapido/?couponCode=F158D14301BAF8E33B83
+
 LinkedIn: https://www.linkedin.com/in/olivalpaulino/
+
 Instagram: https://www.instagram.com/olivalpaulino/
 
 # Aula Gratuita Explicando a criação de um projeto React:
