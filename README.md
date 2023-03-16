@@ -18,3 +18,13 @@ Passo 3: Executar o projeto
 npm start
 
 Logo, o projeto será aberto no seu navegador web padrão, no endereço: localhost:3000.
+
+# Observações:
+
+Para este projeto foi utilizado o Visual Studio Code, o Node.js para instalar dependências, criar o projeto em react e executar os comandos acima.
+
+# Informações:
+
+# Aula Gratuita Explicando a criação de um projeto React:
+
+Acesse: https://youtu.be/JERFJ4OL5Rk
